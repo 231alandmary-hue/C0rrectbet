@@ -12,7 +12,7 @@ A simple Telegram bot that welcomes users and provides a button to join a Telegr
 
 ## Prerequisites
 
-- Python 3.11+
+- Python 3.12+
 - A Telegram Bot Token from BotFather
 - A Telegram channel (or group) invite link
 
